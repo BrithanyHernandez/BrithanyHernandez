@@ -1,6 +1,6 @@
 ### Hi! Nice to see you. 😊
 
-I am Rubi, I am a computer engineering student at the Instituto Politecnico Nacional, Mexico, currently living in Mexico.
+I am Rubi, I am a computer engineering graduate from the Instituto Politecnico Nacional, Mexico, currently living in Mexico.
 
 ## Tecnologias
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
